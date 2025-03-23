@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/bac3bfd3-3c9b-40dc-bfec-f8c98b003cba)
+![image](https://github.com/user-attachments/assets/9afa3002-2b2d-4397-ab3e-b8bbc96d1958)
+
+
 这段代码实现了一个倒计时工具的图形界面应用。主要功能包括显示当前时间、设置一个目标时间并显示倒计时，支持选择时间的输入，还能在任务栏显示透明的倒计时窗口。
 
 开源介绍
