@@ -1,6 +1,10 @@
 ![image](https://github.com/user-attachments/assets/bac3bfd3-3c9b-40dc-bfec-f8c98b003cba)
 ![image](https://github.com/user-attachments/assets/9afa3002-2b2d-4397-ab3e-b8bbc96d1958)
 
+![image](https://github.com/user-attachments/assets/e7dfcba3-f96b-4c41-878e-f2011bdc4054)
+![image](https://github.com/user-attachments/assets/6101f444-9d94-40b1-862e-dfe2c4a0c4f0)
+（更新）新版添加了倒计时发工资和距离上次发工资的进度 支持右下角常驻
+
 
 这段代码实现了一个倒计时工具的图形界面应用。主要功能包括显示当前时间、设置一个目标时间并显示倒计时，支持选择时间的输入，还能在任务栏显示透明的倒计时窗口。
 
